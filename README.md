@@ -3,9 +3,24 @@
 A modified skeleton for building Python applications on Google App Engine with the
 [Flask micro framework](http://flask.pocoo.org).
 
-See our other [Google Cloud Platform github
+See other [Google Cloud Platform github
 repos](https://github.com/GoogleCloudPlatform) for sample applications and
 scaffolding for other python frameworks and use cases.
+
+this web service JSON API prvides following services:
+* coordinates of an area or location in India (e.g cities)
+* nearby areas of an area or location in India (e.g cities)
+* nearby areas(cities) of any particular coordinates
+
+this Repository's API is for Indian Locations, but you modify/edit the numeric_cc.csv file to create services for your locations
+
+Here is few examples of Usage of this web service JSON API:
+http://opportune-lore-728.appspot.com/area_coordinates?area=bihar
+http://opportune-lore-728.appspot.com/area_coordinates?area=biharsdfg
+http://opportune-lore-728.appspot.com/nearby_areas/sorted?lat=29&lon=71
+http://opportune-lore-728.appspot.com/nearby_areas/blocks?lat=29&lon=71
+
+
 
 ## Run Locally
 1. Install the [App Engine Python SDK](https://developers.google.com/appengine/downloads).
