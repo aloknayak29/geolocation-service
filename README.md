@@ -16,8 +16,11 @@ this Repository's API is for Indian Locations, but you modify/edit the numeric_c
 
 Here is few examples of Usage of this web service JSON API:
 http://opportune-lore-728.appspot.com/area_coordinates?area=bihar
+
 http://opportune-lore-728.appspot.com/area_coordinates?area=biharsdfg
+
 http://opportune-lore-728.appspot.com/nearby_areas/sorted?lat=29&lon=71
+
 http://opportune-lore-728.appspot.com/nearby_areas/blocks?lat=29&lon=71
 
 
