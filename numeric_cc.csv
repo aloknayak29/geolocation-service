@@ -1,0 +1,1636 @@
+index,"areas","lat","lon"
+1,"Abhayapuri",26.4,90.63
+2,"Abohar",30.17,74.17
+3,"Abu",24.68,72.83
+4,"Achalpur",21.37,77.53
+5,"Acher",23.17,72.53
+6,"Adhoi",23.43,70.53
+7,"Adilabad",19.55,78.33
+8,"Adoni",15.55,77.3
+9,"Adra",23.5,86.7
+10,"Agar",23.67,76.03
+11,"Agartala",23.83,91.38
+12,"Agori",24.55,82.95
+13,"Agra",27.28,77.97
+14,"Ahiri",19.5,80
+15,"Ahemadabad",23,72.67
+16,"Ahmadnagar",19.12,74.77
+17,"Ahmedabad/Ahmadabd",23,72.67
+18,"Ahmednagar/Ahmednagar",19.12,74.77
+19,"Ai",26.43,90.73
+20,"Ait",25.9,79.23
+21,"Aizawl",23.67,92.73
+22,"Ajaigarh",24.87,80.27
+23,"Ajanta Ra.,",20.47,75.83
+24,"Ajmer",26.47,74.62
+25,"Ajnala",31.83,74.8
+26,"Akbarpur, Bihar",24.65,83.97
+27,"Akbarpur, Uttar Pradesh",26.42,82.53
+28,"Akhnur",32.87,74.75
+29,"Aklera",24.43,76.53
+30,"Akola",20.7,77.03
+31,"Alaknanda",30.13,78.6
+32,"Alappuzha/Alleppey",9.5,76.47
+33,"Aliganj",27.5,79.17
+34,"Aligarh, Rajasthan.,",25.92,76.25
+35,"Aligarh, Uttar Pradesh.,",27.92,78.17
+36,"Alipur Duar",26.5,89.58
+37,"Allahabad",25.42,81.97
+38,"Alleppey",9.5,76.47
+39,"Almora",29.63,79.67
+40,"A lot",23.93,75.67
+41,"Alwar",27.63,76.57
+42,"Amalner",21.08,75.08
+43,"Amanat",24.12,84.07
+44,"Amarkantak",22.67,81.75
+45,"Amarpur",25.08,87
+46,"Amarwara",22.3,79.17
+47,"Ambah",26.72,78.22
+48,"Ambala",30.38,76.93
+49,"Ambikapur",23.25,83.25
+50,"Amdhi",23.85,81.45
+51,"Amet",25.3,73.93
+52,"Amla",21.93,78.12
+53,"Amravati",20.92,77.75
+54,"Amreli",21.58,71.28
+55,"Amritsar",31.58,74.95
+56,"Amroha",28.88,78.5
+57,"Anakapalle",17.7,83.1
+58,"Anand",22.53,72.98
+59,"Anantnag",33.75,75.17
+60,"Anas",23.43,74
+61,"Andhra Pradesh",18,79
+62,"Anjar",23.1,70.17
+63,"Anupgarh",29.17,73.17
+64,"Anuppur",23.1,81.68
+65,"Aonla",28.27,79.18
+66,"Ara",25.58,84.53
+67,"Arain",26.45,75.03
+68,"Araria",26.15,87.55
+69,"Arcot",12.88,79.33
+70,"Arki",31.15,76.97
+71,"Aron",25.95,77.93
+72,"Arrah/Ara",25.58,84.53
+73,"Arunachal Pradesh",28,95
+74,"Arwal",25.25,84.68
+75,"Asan",26.62,78.4
+76,"Asansol",23.67,87.02
+77,"Ashta",23.02,76.72
+78,"Asifabad",19.33,79.4
+79,"Aspur",23.97,74.12
+80,"Assam",26,93
+81,"Atrauli",37.58,53.97
+82,"Attur",11.58,78.5
+83,"Auraiya",26.47,79.55
+84,"Aurangabad, Bihar",24.75,84.3
+85,"Aurangabad, Maharashtra",19.83,75.38
+86,"Awantipur",33.92,75.05
+87,"Azamgarh",26.08,83.22
+88,"Azimganj",24.23,88.27
+89,"Babai/Sarju",27.35,81.38
+90,"Baberu",25.55,80.72
+91,"Babuhri",26.82,69.72
+92,"Bachhwara",25.58,85.9
+93,"Bada Barabil",22.12,85.4
+94,"Badagara",11.58,75.67
+95,"Badampahar",22.17,86.17
+96,"Badarinath",30.75,79.5
+97,"Badgom",34.02,74.75
+98,"Badrinath",30.73,79.98
+99,"Bagasra",21.5,71
+100,"Bagaud",22.32,75.88
+101,"Baghain",25.53,81.02
+102,"Bagodar",24.08,85.87
+103,"Bah",26.88,78.6
+104,"Bahadurganj",26.27,87.82
+105,"Bahadurgarh",28.67,76.95
+106,"Baharampur",24.03,88.45
+107,"Baheri",28.75,79.57
+108,"Bahgul",27.75,79.6
+109,"Bahraich",27.63,81.62
+110,"Bahror",27.85,76.33
+111,"Baihar",22.1,80.55
+112,"Baijnath",29.92,79.62
+113,"Baikunthpur",23.25,82.55
+114,"Baj Baj",22.5,88.08
+115,"Bajag",22.67,81.35
+116,"Bajana",23.12,71.82
+117,"Bakswaho",24.25,79.3
+118,"Balaghat",21.82,80.2
+119,"Balaghat Ra.,",18.83,76.5
+120,"Balamau",27.17,80.35
+121,"Balasinor",22.95,73.38
+122,"Balasore/Baleshwar",21.58,87.05
+123,"Baleshwar",21.58,87.05
+124,"Bali",25.18,73.28
+125,"Baliapal",21.67,87.28
+126,"Balipara",26.83,92.75
+127,"Ballia",25.77,84.2
+128,"Balotra",25.83,72.23
+129,"Balrampur",27.5,82.33
+130,"Balurghat",25.25,88.73
+131,"Banaras/Varanasi",25.37,83
+132,"Banas Gujarat",23.75,71.42
+133,"Banas, Med. P.",24.25,81.5
+134,"Banda, Mad. P.",24.05,78.95
+135,"Banda, Ut. P.",25.5,80.43
+136,"Bandanwara",26.15,74.63
+137,"Bandar/Machilipatnam",16.2,81.13
+138,"Bandhogarh",23.67,81.03
+139,"Bandi",26.2,75.78
+140,"Bandikui",27.05,76.57
+141,"Bangaduni L.",21.57,88.87
+142,"Bangalore",12.98,77.67
+143,"Banganga",27.1,77.42
+144,"Bangaon",23,88.78
+145,"Bangong Co",35.83,79.33
+146,"Banihal Pass",33.5,75.2
+147,"Banjar",31.63,77.35
+148,"Banjar",22.6,80.37
+149,"Banka",24.88,85.17
+150,"Bankipore",25.58,85.17
+151,"Bankura",23.18,87.3
+152,"Banmankhi",25.88,87.18
+153,"Bano",22.67,84.92
+154,"Bansgaon",26.55,83.35
+155,"Banswara",23.53,74.4
+156,"Banttva",21.48,70.2
+157,"Bap",27.38,72.3
+158,"Bapatla",15.92,80.5
+159,"Bar Bigha",25.35,85.78
+160,"Bara",25.27,81.72
+161,"Bara Banki",26.92,81.2
+162,"Barah",27.7,77.08
+163,"Barail Range",25.25,93.33
+164,"Barakar",24.12,86.23
+165,"Barakhola",25,92.75
+166,"Barakot",21.55,84.98
+167,"Barakpur",22.73,88.5
+168,"Baramula",34.25,74.33
+169,"Baran",25.15,76.67
+170,"Barasat",22.77,88.52
+171,"Barauda",23.55,75.25
+172,"Baraut",29.22,77.12
+173,"Barddhaman",23.23,87.65
+174,"Bareilly",28.37,79.45
+175,"Barela",23.1,80.05
+176,"Barh",25.48,85.77
+177,"Barhaj",26.3,83.73
+178,"Barharwa",24.87,87.78
+179,"Barhi",24.25,85.42
+180,"Bari",26.65,77.65
+181,"Bari Sadri",24.47,74.5
+182,"Barkakana",23.62,85.48
+183,"Barmer",25.75,71.33
+184,"Barna",25.35,83.05
+185,"Barnagar",23.12,75.32
+186,"Barnala",30.38,75.55
+187,"Baroda/Vadodara",22.33,73.17
+188,"Baroda",25.48,76.58
+189,"Barpeta",26.33,91.17
+190,"Barrackpur/Barakpur",22.73,88.5
+191,"Barsi",18.17,75.83
+192,"Barsoi",25.8,87.95
+193,"Barwani",22.03,74.95
+194,"Basim/Washim",20.05,77
+195,"Basoda",23.87,77.9
+196,"Bassi",30.73,76.35
+197,"Bastar",19.25,81.67
+198,"Basti",26.87,82.92
+199,"Batala",31.8,75.2
+200,"Bausi",24.8,87.02
+201,"Bayana",26.92,77.3
+202,"Bearma",24.33,79.85
+203,"Beas",31.17,74.98
+204,"Beawar",26.05,74.3
+205,"Begusarai",25.4,86.15
+206,"Behala",22.5,88.33
+207,"Bela",25.83,82
+208,"Belan",24.03,81.75
+209,"Belgaum",15.92,74.58
+210,"Bellary",15.17,76.93
+211,"Belonia",23.25,91.5
+212,"Belrain",28.38,80.92
+213,"Bemetara",21.7,81.53
+214,"Benares/Varanasi",25.37,83
+215,"Ber Mota",23.45,68.57
+216,"Berach",25.25,75.03
+217,"Berhampore/Baharampur",24.03,88.45
+218,"Berhampur/Brahmapur",19.25,84.9
+219,"Bettiah",26.8,84.55
+220,"Betul",21.97,77.98
+221,"Bewas",23.98,79.35
+222,"Bezwada/Vijayawada",16.52,80.65
+223,"Bhabua",25.05,83.62
+224,"Bhachau",23.33,70.27
+225,"Bhadar, Gujarat",22.28,72.33
+226,"Bhadar, Gujarat",21.45,69.78
+227,"Bhadwrwah",32.97,75.77
+228,"Bhadohi",25.42,82.57
+229,"Bhadra",29.13,75.23
+230,"Bhadrakh",21.17,86.5
+231,"Bhadran",22.32,72.1
+232,"Bhadravati",13.82,75.67
+233,"Bhagalpur",25.17,87
+234,"Bhagirathi, Uttaranchal",30.13,78.58
+235,"Bhagirathi, W. Bengal",23.42,88.38
+236,"Bhakra Dam",31.5,76.75
+237,"Bhandara",21.08,79.7
+238,"Bhanpura",24.52,75.73
+239,"Bhanrer Ra.",23.67,79.08
+240,"Bhaptiahi",26.32,86.73
+241,"Bharatpur, Chhattisgarh",23.73,81.77
+242,"Bharatpur, Raj.",27.25,77.5
+243,"Bharno",23.23,84.88
+244,"Bhatinda",30.25,74.95
+245,"Bhatpara",22.83,88.42
+246,"Bhattu",29.6,75.32
+247,"Bhaunagar/Bhavnagar",21.75,72.17
+248,"Bhavnagar",21.75,72.17
+249,"Bhawari",25.7,73.07
+250,"Bhayavadar",21.85,70.25
+251,"Bhikangaon",21.87,75.95
+252,"Bhilsa/Vidisha",23.47,77.88
+253,"Bhilwara",25.42,74.63
+254,"Bhima",16.42,77.28
+255,"Bhind",26.5,78.77
+256,"Bhinga",27.72,81.93
+257,"Bhinmal",25,72.25
+258,"Bhiwandi",19.33,73
+259,"Bhiwani",28.83,76.15
+260,"Bhogava",22.43,72.33
+261,"Bhopal",23.33,77.5
+262,"Bhubaneshwar",20.25,85.83
+263,"Bhuj",23.25,69.82
+264,"Bhusaval",21.05,75.77
+265,"Biaora",23.93,76.93
+266,"Bichia",22.45,80.7
+267,"Bidar",17.92,77.58
+268,"Bidhuna",26.82,79.52
+269,"Bihar",25.08,85.67
+270,"Bihar",25,86
+271,"Bihariganj",25.73,86.98
+272,"Bijaipur",26.03,77.33
+273,"Bijapur, Chhattisgarh",18.83,80.83
+274,"Bijapur, Karnataka",16.83,75.92
+275,"Bijawar",24.63,79.5
+276,"Bijnor",29.45,78.18
+277,"Bikaner",28.03,73.3
+278,"Bikapur",26.5,82.12
+279,"Bilara",26.23,73.88
+280,"Bilaspur, Chhattisgarh",22.03,82.25
+281,"Bilaspur, Punjab",31.32,76.83
+282,"Bilgram",27.18,80.03
+283,"Bilhaur",26.85,80.08
+284,"Bina-Etawah",24.22,78.23
+285,"Bindki",26.03,80.6
+286,"Bir",19.07,75.77
+287,"Birmitrapur",22.4,84.77
+288,"Birsilpur",28.18,72.25
+289,"Birur",13.5,75.92
+290,"Bisalpur",28.23,79.8
+291,"Bishnupur",23.13,87.33
+292,"Biswan",27.48,81.03
+293,"Bobbili",18.58,83.5
+294,"Bodhan",18.67,77.73
+295,"Bokaro",23.77,85.92
+296,"Bolpur",23.67,87.75
+297,"Bombay/Mumbai",18.92,72.83
+298,"Bonaigarh",21.83,84.95
+299,"Borsad",22.42,72.9
+300,"Botad",22.25,71.67
+301,"Brahmani",20.65,86.77
+302,"Brahmapur",19.25,84.9
+303,"Brahmaputra",27.8,95.5
+304,"Budaun",28.08,79.17
+305,"Budge Budge/Baj Baj.",22.5,88.08
+306,"Bulandshahr",28.47,77.85
+307,"Bulsar/Valsad",20.67,72.97
+308,"Bundi",25.5,75.58
+309,"Burda",25.83,77.58
+310,"Burdwan/Barddhaman",23.23,87.65
+311,"Burhanpur",21.3,76.23
+312,"Burhi Gandak",25.33,86.62
+313,"Burhner",22.72,80.52
+314,"Buxa Duar",27.75,89.58
+315,"Buxar",25.57,83.97
+316,"Calcutta/Kolkata",22.6,88.4
+317,"Calicut",11.25,75.72
+318,"Cambay/Khambhat",22.38,72.55
+319,"Cambay, G. of/Khambhat G. of",20.75,72.5
+320,"Cannanore",11.88,75.45
+321,"Canning Town/Port Canning",22.38,88.67
+322,"Cardamon Hills",9.5,77.25
+323,"Cauvery",11.15,78.87
+324,"Cawnpore/Kanpur",26.47,80.33
+325,"chaibasa",22.7,85.82
+326,"Chakradharpur",22.75,85.67
+327,"Chakrata",30.7,77.85
+328,"Chalisgaon",20.5,75.17
+329,"Chamba",32.58,76.17
+330,"Chambal",26.48,79.25
+331,"Chamoli",30.4,79.35
+332,"Champa",22.03,82.72
+333,"Champawat",29.33,80.1
+334,"Champua",22.08,85.67
+335,"Chanasma",23.73,72.08
+336,"Chand",21.95,79.12
+337,"Chandan",24.63,86.67
+338,"Chandan Chauki",28.55,80.78
+339,"Chandannagar",22.87,88.4
+340,"Chandausi",28.45,78.82
+341,"Chandigarh",30.72,76.78
+342,"Chandil",22.97,86.05
+343,"Chandod",21.98,73.47
+344,"Chandrapur",19.95,79.42
+345,"Chnaga",33.88,77.58
+346,"Changanacheri",9.42,76.52
+347,"Channapatna",12.67,77.25
+348,"Chapra= Chhapra",25.8,84.73
+349,"Charanwala",27.85,72.17
+350,"Charkhari",25.4,79.75
+351,"Charkhi Dadri",28.62,76.28
+352,"Chatra",24.2,84.93
+353,"Chatrapur",19.37,85.03
+354,"Chatsu",26.6,75.95
+355,"Chennai",13.13,80.32
+356,"Cherrapunji",25.28,91.78
+357,"Chhabra",24.67,76.9
+358,"Chhaktala",22.1,74.18
+359,"Chhapra",25.8,84.73
+360,"Chhata",27.7,77.5
+361,"Chhatarpur, Jharkhand",24.38,84.18
+362,"Chhatarpur, Mad. P.",24.92,79.58
+363,"Chhattisgarh",22,82
+364,"Chhindwara, Mad. P.",23.05,79.48
+365,"Chhindwara, Mad. P.",22.03,78.98
+366,"Chhota Tawa",22.23,76.6
+367,"Chhoti Kali Sindh",24.03,75.52
+368,"Chhuikhadan",21.53,80.98
+369,"Chicacole/Srikakulam",18.23,83.97
+370,"Chicholi",22.02,77.67
+371,"Chidambaram",11.33,79.75
+372,"Chik Bollapur",13.42,77.75
+373,"Chikmagalur",13.25,75.75
+374,"Chilka L.",19.67,85.42
+375,"Chilo",27.42,73.53
+376,"Chineni",33.03,75.25
+377,"Chini",31.53,75.25
+378,"Chirala",15.83,80.43
+379,"Chirawa",28.23,75.7
+380,"Chirmiri",23.25,82.33
+381,"Chittaurgarh",24.87,74.63
+382,"Chittoor",13.25,79.08
+383,"Chomun",27.25,75.67
+384,"Chorbat La",34.7,76.62
+385,"Chotila",22.38,71.25
+386,"Chotta Udepur",22.32,74.02
+387,"Chuda",22.48,71.68
+388,"Chumar",32.67,78.58
+389,"Chunchura",22.88,88.45
+390,"Churachandpur",24.33,93.67
+391,"Churki",23.83,83.2
+392,"Churu",28.33,74.83
+393,"Chushal",33.67,78.67
+394,"Cocanada/Kakinada",16.95,82.18
+395,"Cochin",9.97,76.33
+396,"Coimbatore",11.03,76.98
+397,"Comorin, C.",8.05,77.67
+398,"Conjeeveram/Kanchipuram",12.87,79.75
+399,"Contai",21.9,87.77
+400,"Cooch Behar/Koch Bihar",26.37,89.48
+401,"Coondapoor",13.7,74.67
+402,"Coromandel Coast",12.5,81
+403,"Cuddalore",11.77,79.75
+404,"Cuddapah",14.5,78.78
+405,"Cumbum",15.67,79.17
+406,"Cuttack",20.42,85.95
+407,"Dabhoi",22.17,73.33
+408,"Dadra & Nagar Haveli",20.08,73
+409,"Dadri/Charkhi Dadri",28.62,76.28
+410,"Dahod",22.83,74.25
+411,"Dakor",22.75,73.18
+412,"Dalhousie",32.63,75.97
+413,"Dalmau",26.07,81.03
+414,"Daltenganj",24,84.07
+415,"Daman",20.42,72.95
+416,"Damodar",23.28,87.58
+417,"Damoh",23.83,79.47
+418,"Dandell",15.08,74.5
+419,"Dankhar Gompa",32.17,78.17
+420,"Danta",24.18,72.77
+421,"Dantan",21.95,87.33
+422,"Darbhanga",26.25,85.92
+423,"Darjeeling/Darjiling",27.05,88.3
+424,"Darjiling",27.05,88.3
+425,"Darwha",20.25,77.75
+426,"Dasuya",31.82,75.63
+427,"Datia",25.65,78.45
+428,"Daudnagar",25.03,84.4
+429,"Daulpur",26.75,77.98
+430,"Dausa",26.87,76.33
+431,"Davangere",14.42,75.92
+432,"Deccan",18,79
+433,"Dechhu",26.77,72.33
+434,"Dechhu",26.77,72.33
+435,"Degana",26.83,74.33
+436,"Dehej",21.73,72.67
+437,"Dehra Dun",30.33,78.07
+438,"Dehri",24.83,84.25
+439,"Delhi",28.63,77.28
+440,"Delvada",20.77,71.03
+441,"Demchok",32.7,79.48
+442,"Deoband",29.7,77.72
+443,"Deogarh",25.53,73.9
+444,"Deoghar",24.5,86.7
+445,"Deolali",19.97,73.83
+446,"Deoli/Devli",25.83,75.33
+447,"Deora",26.37,70.92
+448,"Deori",23.4,79.02
+449,"Deoria",26.52,83.8
+450,"Deosri",26.77,90.48
+451,"Depalpur",22.85,75.55
+452,"Dergaon",26.75,94
+453,"Deshnok",27.8,73.35
+454,"Desuri",25.3,73.58
+455,"Devakottai",9.92,78.75
+456,"Devaprayag",30.22,78.58
+457,"Devgadh Bariya",22.67,73.92
+458,"Devikot",26.7,71.2
+459,"Devil",25.83,75.33
+460,"Dewas",22.98,76.05
+461,"Dhadhar",24.93,85.4
+462,"Dhampur",29.32,78.55
+463,"Dhamtari",20.7,81.58
+464,"Dhanbad",23.83,86.5
+465,"Dhar",22.58,75.43
+466,"Dharampur",22.22,75.3
+467,"Dharamsala/Dharmsala",32.27,76.38
+468,"Dhariwal",31.95,75.32
+469,"Dharmapuri",12.17,78.17
+470,"Dharmjaygarh",22.47,83.22
+471,"Dharmsala",32.27,76.38
+472,"Dharni",21.55,76.88
+473,"Dharwad",15.5,75.07
+474,"Dhasan",25.8,79.4
+475,"Dhebar, L.",24.17,74
+476,"Dhenkanal",20.75,85.58
+477,"Dhilwan",31.52,75.35
+478,"Dhimarkhera",23.47,80.37
+479,"Dholka",22.73,72.48
+480,"Dhoraji",21.75,70.62
+481,"Dhrangadhra",22.98,71.52
+482,"Dhrol",22.55,70.42
+483,"Dhuburi",26.03,89.98
+484,"Dhule",20.97,74.83
+485,"Diamond Harbour",22.18,88.23
+486,"Dibai",28.22,78.25
+487,"Dibrugarh",27.48,94.92
+488,"Didwana",27.38,74.6
+489,"Dig",27.47,77.33
+490,"Diggi",26.37,75.43
+491,"Dihang/Brahmaputra",27.8,95.5
+492,"Dinapur",25.63,85.08
+493,"Dindigul",10.42,78
+494,"Dindori",22.95,81.08
+495,"Disa",24.3,72.17
+496,"Diu",20.75,70.97
+497,"Diyodar",24.13,71.83
+498,"Doda",33.17,75.57
+499,"Dohrighat",26.27,83.52
+500,"Domariaganj",26.28,83.73
+501,"Dras",34.42,75.8
+502,"Dubrajpur",23.8,87.42
+503,"Dudhi",24.25,83.17
+504,"Dudwa",28.5,80.68
+505,"Dum Dum",22.65,88.55
+506,"Dum Duma",27.67,95.67
+507,"Dumka",24.2,87.25
+508,"Dumraon",25.55,84.13
+509,"Dunagiri",30.52,79.87
+510,"Dungarpur",23.87,73.75
+511,"Durg",21.25,81.37
+512,"Durgapur",23.5,87.33
+513,"Dwarka",22.3,69.13
+514,"Easter Ghats",14,78.83
+516,"Elore/Eluru",16.8,81.13
+517,"Eluru",16.8,81.13
+518,"English Bazar/Ingraj Bazar",24.97,88.17
+519,"Erinpura",25.15,73.05
+520,"Erode",11.4,77.75
+521,"Errampala Hills",15.5,78.25
+522,"Etah",27.58,78.67
+523,"Etawah",26.8,79.1
+524,"Faizabad",26.75,82.17
+525,"Faridabad",28.43,77.32
+526,"Faridkot",30.73,74.75
+527,"Faridpur",28.22,79.55
+528,"Fatehabad, Haryana",29.52,75.45
+529,"Fatehabad, Ut. P.",27.02,78.32
+530,"Fatehgarh",27.42,79.58
+531,"Fatehpur, Bihar",24.63,85.23
+532,"Fatehpur, Raj.",28,74.67
+533,"Fatehpur, Ut. P.",25.93,81.22
+534,"Fatehpur, Ut. P.",27.17,81.22
+535,"Fatehpur Sikri",27.1,77.67
+536,"Fazilka",30.45,74.03
+537,"Ferozepore/Fiozpur",30.92,74.67
+538,"Firozabad",27.17,78.42
+539,"Firozpur",30.92,74.67
+540,"Firozpur-Jhirka",27.8,76.95
+541,"Forbesganj",26.28,87.3
+542,"Gadag",15.5,75.75
+543,"Gadarwara",22.83,78.83
+544,"Gadhada",22,71.58
+545,"Gadwal",16.17,77.83
+546,"Gagaria",25.72,70.77
+547,"Gahmar",25.45,83.82
+548,"Gambhir",26.97,77.45
+549,"Gandak",25.65,85.22
+550,"Gandhi Sagar",24.67,75.67
+551,"Gandhinagar",23.25,72.75
+552,"Ganga",23.33,90.5
+553,"Ganga Sagar",21.63,88.08
+554,"Gangan",28.63,78.97
+555,"Ganganagar",29.93,73.93
+556,"Gangapur",26.53,76.82
+557,"Ganges/Ganga",23.33,90.5
+558,"Ganges, Mouths of the",21.5,90
+559,"Gangoh",29.77,77.3
+560,"Gangroti",30.83,79.17
+561,"Gangtok",27.33,88.62
+562,"Ganj",27.75,78.95
+563,"Gapat",24.5,82.47
+564,"Garautha",25.57,79.3
+565,"Garbiyan",30.13,80.9
+566,"Garo Hills",25.5,90.5
+567,"Garot",24.32,75.68
+568,"Garrauli",25.08,79.37
+569,"Garu",23.67,84.23
+570,"Garwa",24.18,83.78
+571,"Gauhati/Guwahati",26.17,91.75
+572,"Gauri Phanta",28.68,80.6
+573,"Gawilgarh Hills",21.25,76.75
+574,"Gaya",24.78,85.07
+575,"Ghaggar",29.5,74.88
+576,"Ghaghara",25.75,84.67
+577,"Ghagra",23.28,84.55
+578,"Ghagra",27.48,81.15
+579,"Ghansor",22.65,80.02
+580,"Ghatal",22.67,87.77
+581,"Ghatampur",26.13,80.22
+582,"Ghatsila",22.6,86.48
+583,"Ghaziabad",28.7,77.43
+584,"Ghazipur",25.63,83.58
+585,"Ghotaru",27.33,70.02
+586,"Ghughri",22.65,80.68
+587,"Ghugus",19.97,79.2
+588,"Gilgit",35.83,74.25
+589,"Gir Hills",21,71
+590,"Girab",26.03,70.63
+591,"Giri",30.47,77.68
+592,"Giridih",24.17,86.35
+593,"Goa",15.55,73.98
+594,"Goa",15.55,73.98
+595,"Goalpara",26.17,90.67
+596,"Goaltor",22.72,87.17
+597,"Godavari",16.42,82.3
+598,"Godavari Pt.",17,82.33
+599,"Godda",24.83,87.22
+600,"Godhra",22.82,73.67
+601,"Gogra= Ghaghara",25.75,84.67
+602,"Gohana",29.13,76.7
+603,"Goharganj",23.02,77.68
+604,"Goi",22.07,74.77
+605,"Gola",28.05,80.53
+606,"Golakganj",26.13,89.87
+607,"Gomati",25.53,83.18
+608,"Gomoh",23.87,86.17
+609,"Gonda",27.15,81.97
+610,"Gondal",21.97,70.87
+611,"Gondia",21.38,80.17
+612,"Gop",22.08,69.83
+613,"Gopalganj",26.47,84.5
+614,"Gorakhpur",26.78,83.38
+615,"Goriganga",29.75,80.38
+616,"Govindgarh",24.38,81.3
+617,"Great Indian Desert/Thar Desert",28,72
+618,"Gua",22.3,85.33
+619,"Gudur",14.2,79.92
+620,"Gujarat",23.33,71
+621,"Gulbarga",17.33,76.83
+622,"Gulmarg",34.05,74.42
+623,"Gumla",23.05,84.55
+624,"Guna",24.67,77.32
+625,"Guntakal",15.18,77.45
+626,"Guntur",16.38,80.5
+627,"Gurdaspur",32.08,75.52
+628,"Gurgaon",28.45,77.02
+629,"Gurha",25.2,71.65
+630,"Guwahati",26.17,91.75
+631,"Gwalior",26.2,78.17
+632,"Haflong",25.17,93.08
+633,"Haidargarh",26.62,81.37
+634,"Hajipur",25.75,85.22
+635,"Haldia",22.08,88.05
+636,"Haldwani",29.52,79.5
+637,"Halia",24.83,82.32
+638,"Halvad",23.02,71.18
+639,"Hamirpur H.P.",31.68,76.52
+640,"Hamirpur, Ut. P.",25.95,80.15
+641,"Handwara",34.35,74.33
+642,"Hanle",32.7,79.07
+643,"Hansdiha",24.6,87.08
+644,"Hansi",29.17,75.95
+645,"Hanumangarh",29.58,74.32
+646,"Haora",22.62,88.33
+647,"Hapur",28.75,77.75
+648,"Harda",22.45,77.08
+649,"Hardoi",27.43,80.1
+650,"Hardwar/Haridwar",29.97,78.15
+651,"Haridwar",29.97,78.15
+652,"Harrai",22.62,79.22
+653,"Harsud",22.1,76.73
+654,"Haryana",29,76.17
+655,"Hasdo",21.73,82.73
+656,"Hathras",27.6,78.1
+657,"Hatta",24.12,79.6
+658,"Hazaribag",23.97,85.43
+659,"Hazaribag Road",24.2,85.95
+660,"Himachal Pradesh",31.5,77
+661,"Himatnagar",23.62,72.95
+662,"Hindaun",26.73,77.08
+663,"Hindupur",13.82,77.53
+664,"Hinganghat",20.5,78.87
+665,"Hingir",21.95,83.68
+666,"Hingoli",19.68,77.25
+667,"Hirakud Dam",21.53,83.75
+668,"Hiran",23.1,79.35
+669,"Hirapur",24.37,79.22
+670,"Hisar",29.2,75.75
+671,"Hooghly/Hugli",21.93,88.07
+672,"Hooghly-Chinsura/Chunchura",22.88,88.45
+673,"Hoshangabad",22.75,77.75
+674,"Hoshiarpur",31.5,75.97
+675,"Hospet",15.25,76.33
+676,"Howrah/Haora",22.62,88.33
+677,"Hugli",21.93,88.07
+678,"Hunza",35.9,74.33
+679,"Hyderabad",17.37,78.48
+680,"Hymia",33.67,78.03
+681,"Ib",21.57,83.8
+682,"Ichchapuram",19.17,84.67
+683,"Ichhawar",23.02,77.02
+684,"Imphal",24.8,93.93
+685,"Indore",22.7,75.88
+686,"Indravati",19.33,80.33
+687,"Ingraj Bazar",24.97,88.17
+688,"Isagarh",24.8,77.85
+689,"Isan",26.85,80.12
+690,"Islampur",25.15,85.2
+691,"Isogstalo",34.25,78.77
+692,"Itarsi",22.6,77.85
+693,"Jabalpur",29.15,79.97
+694,"Jafarabad",20.87,71.37
+695,"Jagadhri",30.17,77.33
+696,"Jagadishpur",25.5,84.35
+697,"Jagdalpur",19.05,82
+698,"Jagraon",30.83,75.42
+699,"Jagital",18.83,79
+700,"Jahanabad",22.58,81.12
+701,"Jahazpur",25.22,84.98
+702,"Jaijon",31.35,76.15
+703,"Jaipur",27,75.83
+704,"Jais",26.25,81.53
+705,"Jaisalmer",26.92,70.9
+706,"Jaisinghnagar",23.63,78.57
+707,"Jaitaran",26.2,73.93
+708,"Jaithari",23.23,78.62
+709,"Jakam",23.9,74.22
+710,"Jakhal",29.8,75.83
+711,"Jakhau",23.22,68.72
+712,"Jalalabad",27.68,79.7
+713,"Jalaun",26.13,79.42
+714,"Jalesar",27.48,78.32
+715,"Jalgaon",21,75.7
+716,"Jalna",19.8,75.63
+717,"Jalor",25.35,72.62
+718,"Jalpaiguri",26.53,88.77
+719,"Jamalpur",25.3,86.47
+720,"Jamalpurganj",23.03,87.98
+721,"Jambusar",22.05,72.85
+722,"Jamira",21.58,88.47
+723,"Jamkhandi",16.5,75.25
+724,"Jammu",32.72,74.9
+725,"Jammu & Kashmir",34.42,77
+726,"Jamnagar",22.5,70.1
+727,"Jamni",25.22,78.58
+728,"Jamshedpur",22.07,86.2
+729,"Jamtara",23.98,86.82
+730,"Janghai",25.55,82.32
+731,"Janjgir",22.02,82.57
+732,"Jaora",23.67,75.17
+733,"Japla",24.55,84.02
+734,"Jarwa",27.63,82.5
+735,"Jasdan",22.03,71.2
+736,"Jashpurnagar",22.9,84.15
+737,"Jasidih",24.52,86.65
+738,"Jaso",24.5,80.48
+739,"Jasrasar",27.72,73.82
+740,"Jaunpur",25.77,82.07
+741,"Jawad",24.6,74.85
+742,"Jayanti",26.75,89.67
+743,"Jaynagar",26.72,86.15
+744,"Jetpur",21.75,70.17
+745,"Jeypore",18.83,82.63
+746,"Jha Jha",24.77,86.37
+747,"Jhaarkand/Jharkhand",24,85.83
+748,"Jhabua",22.77,74.6
+749,"Jhajjar",28.62,76.7
+750,"Jhalawar",24.67,76.17
+751,"Jhalida",23.37,85.97
+752,"Jhalrapatan",24.55,76.17
+753,"Jhansi",25.5,78.6
+754,"Jhargram",22.45,86.98
+755,"Jharia",23.75,86.43
+756,"Jharkhand",24,85.83
+757,"Jharsuguda",21.93,84.08
+758,"Jhilmilli",23.4,82.85
+759,"Jhunjhunu",28.17,75.5
+760,"Jido",29.03,94.97
+761,"Jigni",25.75,79.42
+762,"Jind",29.32,76.37
+763,"Jobat",22.42,74.57
+764,"Jodhpur",26.38,73.13
+765,"Jodiya",22.7,70.3
+766,"Jogbani",26.42,87.25
+767,"Johilla",23.62,81.23
+768,"Jora",26.33,77.82
+769,"Jorhat",26.75,94.2
+770,"Joshinath",30.57,79.57
+771,"Jubbal",31.08,77.67
+772,"Jubbulpore/Jabalpur",23.15,79.97
+773,"Jullundur",31.33,75.67
+774,"Jumna/Yamuna",25.5,81.88
+775,"Junagadh",21.5,70.5
+776,"Kachchh, Gulf of",22.83,69.25
+777,"Kachchh, Rann of",24,70
+778,"Kachchhidhana",21.73,78.77
+779,"Kachnara",23.83,75.1
+780,"Kadi",23.3,72.38
+781,"Kadipur",26.17,82.38
+782,"Kaimganj",27.55,79.4
+783,"Kaimur Hills",24.5,82
+784,"Kaira",22.75,72.83
+785,"Kairana",22.4,77.25
+786,"Kaithal",29.8,76.43
+787,"Kakdwip",21.88,88.18
+788,"Kakinada",16.95,82.18
+789,"Kali",27.1,79.92
+790,"Kali Sindh",25.53,76.28
+791,"Kalimpong",27.07,88.58
+792,"Kalka",30.77,76.95
+793,"Kalna",23.22,88.42
+794,"Kalnai",22.77,83.5
+795,"Kalol, Gujarat",22.62,73.52
+796,"Kalol, Gujarat",23.25,72.55
+797,"Kalpi",26.13,79.78
+798,"Kaman",27.65,77.27
+799,"Kamla",25.58,86.6
+800,"Kanchipuram",12.87,79.75
+801,"Kandaghat",30.98,77.12
+802,"Kandhla",29.3,77.32
+803,"Kandi",23.97,88.08
+804,"Kandla",23,70.17
+805,"Kangra",32.1,76.27
+806,"Kangto",27.83,92.58
+807,"Kanhar",24.47,83.13
+808,"Kanker",20.17,81.67
+809,"Kankroli",25.07,73.88
+810,"Kannauj",27.05,79.93
+811,"Kannod",22.75,76.67
+812,"Kanpur",26.47,80.33
+813,"Kantaphor",22.58,76.57
+814,"Kantli",28.33,75.5
+815,"Kapadvanj",23.08,73
+816,"Kapurthala",31.38,75.42
+817,"Karad",17.25,74.17
+818,"Karagola Road",25.48,87.38
+819,"Karaikal",10.98,79.83
+820,"Karaikkudi",10.08,78.75
+821,"Karamnasa",25.52,83.87
+822,"Karanjia",21.78,85.97
+823,"Karauli",26.5,77.07
+824,"Karchana",25.28,81.93
+825,"Kareha",25.73,86.35
+826,"Karera",25.53,78.15
+827,"Kargil",34.53,76.2
+828,"Karhal",27.02,78.95
+829,"Karimnagar",18.43,79.17
+830,"Karnal",29.7,77.03
+831,"Karnaprayag",30.27,79.25
+832,"Karnataka",13.25,77
+833,"Karsiyang",26.93,88.3
+834,"Karsog",31.38,77.2
+835,"Kartapur",31.45,75.53
+836,"Karwan",27.43,78.07
+837,"Karwar",14.92,74.22
+838,"Karwi",25.2,80.95
+839,"Kasaragod",12.5,74.97
+840,"Kasganj",27.8,78.7
+841,"Kashipur",29.25,79
+842,"Kasiari",22.13,87.23
+843,"Katangi",21.93,79.83
+844,"Katghora",22.5,82.55
+845,"Kathi",21.78,74.05
+846,"Kathiawar",22.33,71
+847,"Kathua",32.38,75.57
+848,"Katihar",25.57,87.6
+849,"Katni",23.85,80.4
+850,"Katwa",23.5,88.08
+851,"Kauwapur",27.52,82.3
+852,"Karvali",14.92,80.02
+853,"Kavi",22.2,72.63
+854,"Kawardha",22,81.28
+855,"Kedarnath",30.73,79.07
+856,"Kekri",26,75.17
+857,"Ken",25.22,80.45
+858,"Kendai",22.75,82.62
+859,"Kendrapara",20.58,86.5
+860,"Keonjhargarh",21.47,85.58
+861,"Kerala",11,76.25
+862,"Ketri",28.02,75.83
+863,"Khachrod",23.42,75.33
+864,"Khaga",25.78,81.12
+865,"Khagaria",25.5,86.53
+866,"Khair",27.95,77.77
+867,"Khairabad",27.55,80.78
+868,"Khairgarh",21.45,81.03
+869,"Khairwara",23.97,73.63
+870,"Khalilabad",26.8,83.08
+871,"Khamaria",23.08,80.8
+872,"Khambhaliya",22.23,69.68
+873,"Khambhat",22.38,72.55
+874,"Khambhat, G. of",20.75,72.5
+875,"Khandwa",21.82,76.37
+876,"Khaniadhana",25.02,78.13
+877,"Khanna",30.7,76.27
+878,"Kharaghoda",23.18,71.77
+879,"Kharagpur",22.33,87.42
+880,"Kharda",18.67,75.57
+881,"Khardung La.",34.33,77.72
+882,"Khargon",21.75,75.67
+883,"Khari",25.9,74.52
+884,"Kharsawangarh",22.8,85.83
+885,"Khatauli",29.28,77.72
+886,"Khatra",22.98,86.85
+887,"Khavda",23.85,69.72
+888,"Khed Brahma",24.12,73.08
+889,"Khekra",28.87,77.33
+890,"Khilchipur",24.03,76.57
+891,"Khirsadoh",22.18,78.78
+892,"Khuiyala",27.15,70.42
+893,"Khujner",23.78,76.6
+894,"Khunti",23.08,85.28
+895,"Khurai",24.05,78.38
+896,"Khurja",28.25,77.97
+897,"Kichha",28.88,79.5
+898,"Kichha",28.68,79.3
+899,"Kilar",33.1,76.42
+900,"Kirkee",18.57,73.93
+901,"Kishanganj",26.05,88.23
+902,"Kishangarh, Raj.",26.57,74.87
+903,"Kishangarh, Raj.",27.83,70.5
+904,"Kishtwar",33.33,75.8
+905,"Kivarli",24.55,72.77
+906,"Koch Bihar",26.37,89.48
+907,"Kochas",25.25,83.93
+908,"Kochi/Cochin",9.97,76.33
+909,"Kodarma",24.47,85.6
+910,"Kodinar",20.77,70.77
+911,"Kohima",25.58,94.17
+912,"Kolahoi",34.2,75.37
+913,"Kolar",13.2,78.25
+914,"Kolar Gold Fields",12.97,78.27
+915,"Kolaras",25.23,77.6
+916,"Kolayat",27.83,72.83
+917,"Kolhapur",16.72,74.25
+918,"Kolkata",22.6,88.4
+919,"Kollam/Quilon",8.83,76.63
+920,"Kolosib",24.25,92.75
+921,"Konch",26,79.17
+922,"Koral",21.83,73.2
+923,"Korba",22.33,82.75
+924,"Korwai",24.12,78.08
+925,"Kosi",27.8,77.48
+926,"Kosi",28.68,78.95
+927,"Kot Kapura",30.58,74.83
+928,"Kota",25.23,75.82
+929,"Kota Barrage",25.1,75.85
+930,"Kotdwara",29.75,78.53
+931,"Kothari",25.33,75.07
+932,"Kothi, Chhattisgarh",23.35,82.05
+933,"Kothi, Mad. P.",24.75,80.67
+934,"Kotma",23.2,81.97
+935,"Kotputli",27.72,76.2
+936,"Kotturu",14.75,76.17
+937,"Kozhikode/Calicut",11.25,75.72
+938,"Krishna",15.95,80.98
+939,"Krishnanagar",23.4,88.55
+940,"Kucha Gompa",34.42,76.93
+941,"Kuchaman",27.22,74.78
+942,"Kuchinda",21.73,84.35
+943,"Kuda",23.17,71.25
+944,"Kulasekarappattinam",8.33,78.08
+945,"Kulgam",33.6,75.03
+946,"Kulti",23.72,86.83
+947,"Kulu",31.97,77.1
+948,"Kumbakonam",10.97,79.42
+949,"Kumbhraj",24.37,77.05
+950,"Kumdok",33.53,78.17
+951,"Kumharsain",31.32,77.45
+952,"Kunda",25.72,81.52
+953,"Kundla",21.35,71.42
+954,"Kunwari",26.43,79.18
+955,"Kuranga",22.07,69.17
+956,"Kuri",26.62,70.72
+957,"Kurnool",15.75,78
+958,"Kushalgarh",23.17,74.45
+959,"Kushol",33.67,76.6
+960,"Kusmi",23.28,83.92
+961,"Kutch, Gulf of/Kachchh, Gulf of",22.83,69.25
+962,"Kutch, Rann of/Kachchh Rann of",24,70
+963,"Kutiyana",21.6,70.03
+964,"Kuwana",26.42,83.25
+965,"Kyelang",32.58,77.03
+966,"Laccadive Is./Lakshadweep Is.",10,72.5
+967,"Lachhmangarh",27.83,75.07
+968,"Ladakh Ra.",34,78
+969,"Ladnun",27.63,74.42
+970,"Lahar",26.2,78.95
+971,"Laharpur",27.72,80.93
+972,"Lakha",26.15,70.9
+973,"Lakhimpur",27.95,80.77
+974,"Lakhnadon",22.6,79.6
+975,"Lakhpat",23.8,68.78
+976,"Laksar",29.77,78.05
+977,"Lakshadweep Is.",10,72.5
+978,"Lakshmanpur",22.97,83.05
+979,"Lakshmikantapur",22.08,88.33
+980,"Lala Ghat",24.5,92.67
+981,"Lalganj",25.87,85.22
+982,"Lalgola",24.42,88.25
+983,"Lalitpur",24.7,78.47
+984,"Lalkua",29.08,79.52
+985,"Lalsot",26.57,76.33
+986,"Lamta",22.13,80.12
+987,"Lansdowne",29.83,78.68
+988,"Lashkar",26.17,78.17
+989,"Latehar",23.75,84.5
+990,"Lathi",27.72,71.38
+991,"Leh",51.2,16.17
+992,"Limbdi",22.57,71.85
+993,"Little Rann",23.42,71.42
+994,"Lohardaga",23.45,84.75
+995,"Loharia",23.75,74.23
+996,"Loharu",28.45,75.82
+997,"Londa",15.5,74.5
+998,"Lormi",22.28,81.68
+999,"Luajan",24.73,85.02
+1000,"Lucknow",26.83,81
+1001,"Ludhiana",30.95,75.93
+1002,"Lukhisaria",25.18,86.08
+1003,"Luna",23.72,69.27
+1004,"Lunavada",23.13,73.62
+1005,"Lunglei",22.92,92.75
+1006,"Luni",26,73.1
+1007,"Luni",24.68,71.23
+1008,"Lunkaransar",28.48,73.73
+1009,"Machhu",23.1,70.77
+1010,"MachilipatnaM",16.2,81.13
+1011,"Madha",18,75.5
+1012,"Madhavpur",21.25,69.97
+1013,"Madhepura",26.18,86.38
+1014,"Madhupur",24.27,86.48
+1015,"Madhya Pradesh",22.83,78
+1016,"Madikeri",12.5,75.75
+1017,"Madras/TaMil Naidu",11,77
+1018,"Madri",24.27,73.53
+1019,"Madurai",9.92,78.17
+1020,"MadurantakaM",12.5,79.83
+1021,"Magvana",23.22,69.37
+1022,"Mahadeo Hills",22.33,78.5
+1023,"Mahajan",28.8,73.93
+1024,"Mahan",20.33,86.42
+1025,"Maharashtra",20.5,75.5
+1026,"Mahbulnagar",28.28,76.23
+1027,"Mahe",33.17,78.53
+1028,"Mahendragarh",28.28,76.23
+1029,"Mahesana",23.65,72.43
+1030,"Maheshwar",22.18,75.58
+1031,"Mahgawan",26.48,78.62
+1032,"Mahi",2.25,72.92
+1033,"Mahoba",25.08,79.92
+1034,"Mahuva",21.08,71.8
+1035,"Maihar",24.27,80.75
+1036,"Maikala Ra",22,81
+1037,"Mailani",28.28,80.35
+1038,"Mainpuri",27.3,79.07
+1039,"Mairabari",26.5,92.37
+1040,"Makrai",22.03,77
+1041,"Malabar Coast",11,75
+1042,"Maldah",25.03,88.15
+1043,"Malegaon",20.5,74.63
+1044,"Malerkotla",30.53,75.97
+1045,"Malhargarh",24.28,74.98
+1046,"Maliya",23.08,70.77
+1047,"Mallawan",27.07,80.2
+1048,"Malpur",23.35,73.45
+1049,"Malpura",26.28,75.38
+1050,"Malvan",16.03,73.5
+1051,"Man Bazaar",23.07,86.65
+1052,"Manali",32.27,77.17
+1053,"Manas",26.2,90.67
+1054,"Mand",21.7,83.25
+1055,"Mandalgarh",25.2,75.1
+1056,"Mandi",31.65,76.97
+1057,"Mandi Dabwali",29.97,74.7
+1058,"Mandla",22.65,80.5
+1059,"Mandsaur",24.05,75.13
+1060,"Mandvi",22.85,69.37
+1061,"Mandya",12.5,77
+1062,"Mangalore",12.92,74.78
+1063,"Mangan",27.52,88.53
+1064,"Mangawan",24.68,81.55
+1065,"Manglaur",29.73,77.82
+1066,"Mangrol Mad. P.",21.12,70.12
+1067,"Mangrol Raj.",25.33,76.52
+1068,"Manihari",25.35,87.63
+1069,"Manikpur",25.07,81.12
+1070,"Manipur",25,94
+1071,"Manjra",18.82,77.87
+1072,"ManMad",20.3,74.47
+1073,"Manoharpur",22.38,85.2
+1074,"Manpur, Chhattisgarh",23.28,83.58
+1075,"Manpur,Mad. P.",22.43,75.62
+1076,"Mansa Gujrat",23.45,72.75
+1077,"Mansa Punjab",30,75.45
+1078,"Manthani",18.67,79.58
+1079,"Marmagao",15.42,73.93
+1080,"Marwar",25.72,73.75
+1081,"Mashrakh",26.12,84.8
+1082,"Matanomadh",23.55,68.95
+1083,"Mathura",27.5,77.67
+1084,"Matiali",26.93,88.82
+1085,"Matla",21.67,88.67
+1086,"Mattancheri",9.83,76.25
+1087,"Mau Mad. P.",26.28,78.68
+1088,"Mau Ut. P.",25.93,83.55
+1089,"Mau, Ut. P.",25.28,81.38
+1090,"mau Ranjpur",25.27,79.13
+1091,"Mauganj",24.83,81.92
+1092,"Mavli",24.25,7.92
+1093,"Mawai",22.5,81.07
+1094,"Mawana",29.1,77.97
+1095,"Medinipur",22.42,87.35
+1096,"Meerut",29.02,77.7
+1097,"Megasini",21.63,86.35
+1098,"Meghalaya",25.83,91
+1099,"Mehndawal",26.97,83.08
+1100,"Meja",25.15,82.12
+1101,"Melagiri Hills",12.33,77.5
+1102,"Mendhar",33.58,74.17
+1103,"Merta",26.65,74.07
+1104,"Merta Road",26.72,73.92
+1105,"Mhow",22.55,75.83
+1106,"Minutang",28.25,96.5
+1107,"Miraj",16.83,74.75
+1108,"Mirzapur",25.17,82.57
+1109,"Mirzapur-cum-Vindhyachal=Mirzapur",25.17,82.57
+1110,"Miyani",21.83,69.43
+1111,"Mizoram",23.5,92.67
+1112,"Modasa",23.5,73.35
+1113,"Moga",30.8,75.13
+1114,"Mohana",24.72,85
+1115,"Mohanlalganj",26.68,80.97
+1116,"Mokameh",25.4,85.92
+1117,"Mokokchung",26.25,94.5
+1118,"Monghyr/Munger",25.38,86.5
+1119,"Moradabad",28.83,78.83
+1120,"Morar",26.23,78.23
+1121,"Morbi",22.83,70.7
+1122,"Morel",26.22,76.6
+1123,"Morena",26.5,78.07
+1124,"Morhar",25.48,85.18
+1125,"Moth",25.72,78.95
+1126,"Motihari",26.5,84.92
+1127,"Mubarakpur",26.1,83.3
+1128,"Mughal Sarai",25.3,83.12
+1129,"Muhammadabad",26.07,83.42
+1130,"Mukandwara",24.82,75.98
+1131,"Mukerian",31.95,75.62
+1132,"Mukstar",30.5,74.5
+1133,"Mumbai",18.92,72.83
+1134,"Munabao",25.75,70.28
+1135,"Mundra",22.9,69.8
+1136,"Mungaoli",24.4,78.12
+1137,"Mungeli",22.07,81.68
+1138,"Munger",25.38,86.5
+1139,"Muri",23.37,85.87
+1140,"Murliganj",25.9,86.98
+1141,"Murshidabad",24.18,88.32
+1142,"Murshidabad",24.18,88.32
+1143,"Murwara",23.77,80.47
+1144,"Musafirkhana",26.37,81.8
+1145,"Mussoorie",30.45,78.1
+1146,"Muzaffarnagar",29.43,77.67
+1147,"Muzaffarpur",26.12,85.38
+1148,"Myjlar",26.25,70.33
+1149,"Mysore/Karnataka",13.25,77
+1150,"Mysore",12.28,76.68
+1151,"Babadwip/Navadwip",23.57,88.33
+1152,"Nabha",30.43,76.23
+1153,"Nachna",27.57,71.68
+1154,"Nadiad",22.68,72.93
+1155,"Nagaland",26,94.5
+1156,"Nagappattinam",10.77,79.85
+1157,"Nagaur",27.25,73.75
+1158,"Nagda",23.45,75.42
+1159,"Nagercoil",8.2,77.43
+1160,"Nagina",29.5,78.5
+1161,"Nagod",24.57,80.6
+1162,"Nagpur",21.13,79.17
+1163,"Nahan",30.55,77.3
+1164,"Mahargarh Mad. P.",24.17,75.23
+1165,"Nahargarh Raj.",24.92,76.83
+1166,"Naimisharanya",27.35,80.5
+1167,"Naini Tal",29.5,79.5
+1168,"Nainpur",22.5,80.17
+1169,"Nainwa",25.77,75.85
+1170,"Najibabad",29.67,78.33
+1171,"Nakhtarana",23.33,69.25
+1172,"Nakodar",31.13,75.52
+1173,"Nalgonda",17.1,79.25
+1174,"Nalhati",24.28,87.87
+1175,"Naliya",23.27,68.83
+1176,"Nallamalai Hills",15.5,78.83
+1177,"Namgia",31.8,78.67
+1178,"Nanda Devi",30.38,79.98
+1179,"Nanda Kot",30.28,80.08
+1180,"Nanded",19.67,77.33
+1181,"Nandigram",22.02,87.97
+1182,"Nandurbar",21.33,74.25
+1183,"Nandyal",15.5,78.5
+1184,"Nanpara",27.87,81.55
+1185,"naraini",25.18,80.48
+1186,"Narsapur",16.43,81.67
+1187,"Narayanpet",16.75,77.5
+1188,"Narendernagar",30.17,78.3
+1189,"Narmada",21.63,72.6
+1190,"Narnaul",28.08,76.18
+1191,"Narsimhapur",22.9,79.23
+1192,"Narsinghgarh",23.75,76.67
+1193,"Narwana",29.65,76.1
+1194,"Nasik",19.97,73.83
+1195,"Nasirabad",26.25,74.75
+1196,"Nathdwara",24.92,73.83
+1197,"Nautanwa",27.33,83.42
+1198,"Navadwip",23.57,88.33
+1199,"Navinbandar",21.43,69.8
+1200,"Navlakhi",22.97,70.47
+1201,"Navsari",20.95,72.98
+1202,"Nawabganj Ut. P.",26.93,81.23
+1203,"Nawabganj Ut. P.",28.53,79.67
+1204,"Nawada",24.83,85.55
+1205,"Nawalgarh",27.83,75.25
+1206,"Nawanshahr",32.55,74.8
+1207,"Neemuch/Nimach",24.5,74.93
+1208,"Negapattam/Nagappattinam",10.77,79.85
+1209,"Negev Desert/Hanegev",30.83,35
+1210,"Nellore",14.45,79.98
+1211,"Nepalganj Road",28.02,81.68
+1212,"Netarhat",23.48,84.27
+1213,"Netrang",21.65,73.35
+1214,"New Delhi",28.62,77.22
+1215,"Newaj",24.4,76.82
+1216,"Nighasin",28.23,80.87
+1217,"NimKa Thana",27.73,75.8
+1218,"Nimach",24.5,74.93
+1219,"Nimbahera",24.62,74.75
+1220,"Nirmal",19,78.33
+1221,"Nirmali",26.33,86.58
+1222,"Niwas",23.05,80.43
+1223,"Nizamabad",18.75,78.12
+1224,"Nizamghat",28.33,95.75
+1225,"Nohar",29.18,74.82
+1226,"Nohta",23.67,79.57
+1227,"North East Frontier Agency/Arunachal Pradesh",28,95
+1228,"Norht Koel",24.75,83.83
+1229,"North Lakhimpur",27.23,94.12
+1230,"Norther Circars",17.5,82.5
+1231,"Nowgong Assam",26.33,92.83
+1232,"Nowgong Mad. P.",25.07,79.45
+1233,"Nubra",34.58,77.58
+1234,"Nunkun",33.95,76.03
+1235,"Nyoma Rap",33.17,78.67
+1236,"Okha",22.45,69.07
+1237,"Ongole",15.55,80.03
+1238,"Ootacamund/Udagamandalam",11.5,76.73
+1239,"Orai",25.97,79.5
+1240,"Orissa",20,84
+1241,"Osiyan",26.72,72.92
+1242,"Osmanabad",18.08,76.17
+1243,"Pachhar",24.67,77.7
+1244,"Pachmarhi",22.47,78.43
+1245,"Pachpadra",25.97,72.17
+1246,"Padma",24.2,85.37
+1247,"Padra",22.25,73.12
+1248,"Padrauna",26.9,83.98
+1249,"Pagara",24.37,80.02
+1250,"Pailani",25.75,80.43
+1251,"Pakaur",24.63,87.85
+1252,"Pal Lahara",21.45,85.18
+1253,"Palam",19,77
+1254,"Palampur",32.17,76.5
+1255,"Palani Hills",10.23,77.55
+1256,"Palanpur",24.17,72.42
+1257,"Palashi",23.78,88.25
+1258,"Palasponga",21.78,85.57
+1259,"Palayankottai",8.75,77.75
+1260,"Palghat",10.77,76.7
+1261,"Pali",25.83,73.33
+1262,"Palitana",21.53,71.82
+1263,"Pallu",28.98,74.23
+1264,"Palwal",28.13,77.32
+1265,"Panaji",15.42,73.83
+1266,"Pandhana",21.7,76.22
+1267,"Pandharpur",17.68,75.33
+1268,"Pangong Tso",34.67,78.67
+1269,"Pani Mines",22.48,73.83
+1270,"Panikota I.",20.77,71.35
+1271,"Panipat",29.42,77.03
+1272,"Panja Range/Pir Panjal Range",32.5,76.83
+1273,"Panjim/Panaji",15.42,73.83
+1274,"Panna",24.67,80.25
+1275,"Panna Hills",24.67,81.25
+1276,"Pansemal",21.65,74.7
+1277,"Paradip",20.25,86.58
+1278,"Parbati , Mad. P.",25.83,76.5
+1279,"Parbati Raj.",26.9,77.88
+1280,"Parbhani",19.13,76.87
+1281,"Parbhani",19.13,76.87
+1282,"ParvatiPuram",18.83,83.42
+1283,"Parvatsar",26.87,74.82
+1284,"Patan, Gujrat",23.9,72.23
+1285,"Patan Maharashtra",23.9,72.23
+1286,"Pataudi",28.3,76.8
+1287,"Pathankot",32.3,75.75
+1288,"Patiala, Punjab",30.38,76.43
+1289,"Patiala Ut. P.",27.72,79.02
+1290,"Patkai Bum",27,95.5
+1291,"Patna",25.58,85.2
+1292,"Patti Punjab",25.92,82.2
+1293,"Patti Ut. P.",25.92,82.2
+1294,"Pauri",90.15,78.78
+1295,"Pawayan",28.07,80.1
+1296,"Pendra",22.77,81.95
+1297,"Penner",14.58,80.17
+1298,"Petlad",22.5,72.75
+1299,"Phagwara",31.17,75.67
+1300,"Phalera/Phulera",26.87,75.27
+1301,"Phalodi",27.2,72.4
+1302,"Phaphund",26.6,79.47
+1303,"Pharenda",27.08,83.28
+1304,"Phul",30.32,75.23
+1305,"Phulad",2.63,73.82
+1306,"Phulera",26.87,75.27
+1307,"Phulpur",25.52,82.82
+1308,"Pichhor",25.97,78.33
+1309,"Pichor",25.18,78.18
+1310,"Pihani",27.6,80.25
+1311,"Pilani",28.37,75.55
+1312,"Pilibhit",28.67,79.83
+1313,"Pilkhawa",28.72,77.7
+1314,"Pipar",26.42,73.52
+1315,"Pipar Road",26.45,73.45
+1316,"Piparia Mad. P.",22.75,78.38
+1317,"Piparia Mad. P.",21.82,77.62
+1318,"Piploda",23.62,74.93
+1319,"Pir Panjal Range",32.5,76.83
+1320,"Piram I.",21.6,72.35
+1321,"Pirawa",24.17,76.03
+1322,"Pithapuram",17.17,82.25
+1323,"Pithoragarh",29.58,80.22
+1324,"Pohri",25.53,77.37
+1325,"Pokaran",27,71.83
+1326,"Pollachi",10.58,77
+1327,"Pondicherry",11.98,79.83
+1328,"Ponnani",10.75,75.98
+1329,"Poona/Pune",18.48,73.95
+1330,"Porbandar",62.73,69.72
+1331,"Port Canning",22.38,88.67
+1332,"Pratabpur",23.47,83.25
+1333,"Pratapgarh, Raj.",24.03,74.67
+1334,"Pratapgarh , Ut. P.",25.93,81.98
+1335,"Proddatur",14.75,78.5
+1336,"Puduchcheri/Pondicherry",11.98,79.83
+1337,"Pudukkottai",10.47,78.78
+1338,"Pugal",28.5,72.8
+1339,"Pukhrayan",26.23,79.85
+1340,"Pulicat L.",13.67,80.25
+1341,"Punasar",27.1,73.1
+1342,"Punch",33.8,74.07
+1343,"Pune",18.48,73.95
+1344,"Punjab",31,76
+1345,"Punpun",25.52,85.3
+1346,"Puralia/Puruliya",23.28,86.4
+1347,"Puranpur",28.52,80.15
+1348,"Puri",19.83,85.97
+1349,"Purnia",25.75,87.52
+1350,"Puruliya",23.28,86.4
+1351,"Purwa",26.47,80.78
+1352,"Pusa",25.98,85.68
+1353,"Quilon",8.83,76.63
+1354,"Radhanpur",23.83,71.63
+1355,"Rae Bareli",26.3,81.33
+1356,"Raghunathpalli",22.23,84.8
+1357,"Raghunathpur",23.55,86.67
+1358,"Rahatgarh",23.78,78.37
+1359,"Rahon",31.05,76.12
+1360,"Raichur",16.17,77.33
+1361,"Raiganj",25.62,88.17
+1362,"Raigarh",21.93,83.42
+1363,"Raikot",30.68,75.7
+1364,"Raipur",21.28,81.75
+1365,"Raisen",23.83,77.8
+1366,"Raj Nandgaon",21.47,86.77
+1367,"Raj Nilgiri",21.47,86.77
+1368,"Rajahnundry",17.02,81.8
+1369,"Rajapalaiyam",9.42,77.58
+1370,"Rajasthan",26.75,73.5
+1371,"Rajasthan",26.75,73.5
+1372,"Rajasthan Canal",28,72
+1373,"Rajauri",33.42,74.35
+1374,"Rajgarh Mad. P.",24.03,76.75
+1375,"Rajgarh Raj.",27.23,76.63
+1376,"Rajgarh Raj.",28.67,75.42
+1377,"Rajgir",25.03,85.42
+1378,"Rajkot",22.25,70.93
+1379,"Rajmahal Hills",24.5,87.5
+1380,"Rajpipla",21.83,73.5
+1381,"Rajpur",22.3,74.35
+1382,"Rajpura",30.42,76.53
+1383,"Rajula",21.05,71.43
+1384,"Ramakona",21.72,78.83
+1385,"Ramanathapuram",9.42,78.92
+1386,"Ramanujganj",23.8,83.7
+1387,"Ramban",33.23,75.2
+1388,"Ramganga",27.08,79.97
+1389,"Ramgarh Jharkhand",23.67,85.58
+1390,"Ramgarh Raj.",27.27,75.23
+1391,"Ramgarh Raj.",27.5,70.6
+1392,"Ramnad/Ramanathapuram",9.42,78.92
+1393,"Ramnagar, J&K",32.78,75.3
+1394,"Ramnagar , Uttranchal",29.4,79.12
+1395,"Rampur, H.P.",31.43,77.72
+1396,"Rampur Mad. P.",23.42,73.88
+1397,"Rampur Ut. P.",28.83,79.08
+1398,"Rampur Hat",24.17,87.83
+1399,"Rampura",24.5,75.45
+1400,"Ramrama Tola",21.87,79.92
+1401,"Ramtek",21.33,79.25
+1402,"Rana Pratap Sagar Dam",24.97,75.63
+1403,"Ranaghat",23.25,88.58
+1404,"Ranchi",23.32,85.45
+1405,"Rangia",26.47,91.63
+1406,"Ranibennur",14.58,75.5
+1407,"Raniganj ,Ut. P.",27.05,82.22
+1408,"Raniganj W. Bengal",23.67,87.08
+1409,"Ranikhet",29.65,79.42
+1410,"Raniwara",24.83,72.17
+1411,"Ranka",23.98,83.78
+1412,"Rapar",23.57,70.63
+1413,"Rapti",26.3,83.68
+1414,"Rasra",25.83,83.83
+1415,"Ratangarh",28.08,74.58
+1416,"Rath",25.6,79.62
+1417,"Ratlam",23.33,75
+1418,"Ratnagiri",16.95,73.3
+1419,"Raurkela",22.23,84.83
+1420,"Raxaul",26.98,84.85
+1421,"Rayadurg",14.67,76.83
+1422,"Rayagada",19.25,83.33
+1423,"Rehar",23.92,82.67
+1424,"Rehli",23.63,79.08
+1425,"Reotipur",25.55,83.75
+1426,"Revelganj",25.83,84.67
+1427,"Rewa",24.55,81.42
+1428,"Rewari",28.25,76.67
+1429,"Riasi",33.17,74.83
+1430,"Robertsganj",24.73,83.07
+1431,"Rohtak",28.92,76.72
+1432,"Roorkee",29.87,77.98
+1433,"Rupar",31.03,76.63
+1434,"Rupsa",23.47,71.52
+1435,"Sabi",28.48,76.73
+1436,"Sadri",25.18,73.43
+1437,"Sagar Mad P.",14.23,75.1
+1438,"Saharanpur",29.97,77.55
+1439,"Saharsa",25.88,86.6
+1440,"Sahaswan",28.08,78.75
+1441,"Sahibganj",25.2,87.67
+1442,"Sai",25.65,82.78
+1443,"Sailana",23.47,74.92
+1444,"Sairang",23.83,92.75
+1445,"Sajum",33.33,79
+1446,"Sakri",26.22,86.08
+1447,"Sakti",22.03,82.97
+1448,"Salaya",22.32,69.58
+1449,"Salem",11.67,78.18
+1450,"Salon",26.03,81.45
+1451,"Salur",18.45,83.3
+1452,"Sam",26.83,70.52
+1453,"Samana",30.17,76.22
+1454,"Samastipur",25.83,85.83
+1455,"Samba",32.53,75.17
+1456,"Sambalpur",21.47,84.07
+1457,"Sambhal",28.58,78.62
+1458,"Sambhar",26.87,75.1
+1459,"Sambhar L.",26.92,75.2
+1460,"Sanand",22.98,72.42
+1461,"Sandila",27.08,80.52
+1462,"Sangamner",19.62,74.25
+1463,"Sangod",24.92,76.28
+1464,"Sangrur",30.23,75.83
+1465,"Sanwer",22.98,75.83
+1466,"Saraikela",22.7,85.93
+1467,"Sarangarh",21.5,83.08
+1468,"Sardarshahr",28.5,74.48
+1469,"Saria",21.63,83.37
+1470,"Sarila",25.77,79.68
+1471,"Sarvar",26.07,75
+1472,"Sasan Gir",21.17,70.6
+1473,"Sasaram",24.95,84.08
+1474,"Saser",34.83,77.83
+1475,"Satara",17.73,73.97
+1476,"Satbarwa",23.92,84.27
+1477,"Satmala Hills",20.25,74.67
+1478,"Satna",34.58,80.83
+1479,"Satpura Ra",21.42,76.17
+1480,"Sawai Madhopur",26,76.42
+1481,"Secunderabad",17.47,78.5
+1482,"Sehore",23.17,77.08
+1483,"seohara",21.73,82.47
+1484,"Seondha",26.15,78.8
+1485,"Seoni",22.08,79.5
+1486,"sEoni Malwa",22.45,77.47
+1487,"Sewani",28.97,75.65
+1488,"Sihora",23.48,80.1
+1489,"Sika",22.43,69.78
+1490,"Sikar",27.55,75.17
+1491,"Sikkim",27.83,88.5
+1492,"Silawad",21.9,74.9
+1493,"Silchar",24.82,92.8
+1494,"Silghat",26.58,93
+1495,"Silvani",23.3,78.42
+1496,"Simaltala",24.72,86.55
+1497,"Simdega",22.62,84.52
+1498,"Simla",31.03,77.15
+1499,"Sind J & K",34.3,74.75
+1500,"Sindri",23.75,86.7
+1501,"Singoli",25,75.37
+1502,"Sinor",21.92,73.33
+1503,"Sipra",23.92,75.47
+1504,"Sirathu",25.65,81.32
+1505,"Sirmaur",24.85,81.38
+1506,"Sirohi",24.87,72.88
+1507,"Sironj",24.08,77.65
+1508,"Sirsa",26.85,79.07
+1509,"Siswa Bazar",27.15,83.77
+1510,"Sitamarhi",26.62,85.5
+1511,"Sitapur",27.63,80.75
+1512,"Siwan",26.22,84.35
+1513,"Siwana",25.63,72.42
+1514,"Sobhapur",22.78,78.28
+1515,"Soda Plains",35.5,79
+1516,"sojat",25.92,73.75
+1517,"Solan",30.92,77.12
+1518,"Somdari",25.78,72.63
+1519,"Somnath",20.88,70.37
+1520,"Son",25.7,84.87
+1521,"Sonamarg",34.3,75.35
+1522,"Sonamukhi",24.4,79.93
+1523,"Sonar",24.4,79.93
+1524,"Sonepur",20.92,83.83
+1525,"Sonhat",23.48,82.52
+1526,"Sonipat",29,77.08
+1527,"Sonkach",22.98,76.35
+1528,"Sopur",34.3,74.45
+1529,"Soraon",25.62,81.85
+1530,"Sot",27.45,79.62
+1531,"South Koel",22.53,85.23
+1532,"Srinagar",34.08,74.83
+1533,"Surat",21.2,72.92
+1534,"Sursar",26.23,87.05
+1535,"Susner",23.95,76.08
+1536,"Takh",33.1,77.53
+1537,"Takh",33.1,77.53
+1538,"Talcher",21,85.3
+1539,"Tamenglong",25,93.58
+1540,"Tamluk",11,77
+1541,"Tanda Ut. P.",26.55,82.58
+1542,"Tankhala",21.97,73.78
+1543,"Tapi",21.13,72.68
+1544,"Tawa",22.8,77.8
+1545,"Tehri",30.38,78.48
+1546,"Tejam",29.95,80.18
+1547,"Tekkali",18.62,84.25
+1548,"Tellicherry",11.75,75.5
+1549,"Tenali",16.25,80.58
+1550,"Tendukhera",23.4,79.55
+1551,"Tenkasi",8.92,77.33
+1552,"Tezpur",26.67,92.75
+1553,"Than",22.57,71.18
+1554,"Thanjavur",10.8,79.2
+1555,"Thar Desert",28,72
+1556,"Tharad",24.5,71.73
+1557,"Tikamgarh",24.73,78.83
+1558,"Tinnevelly/Tirunelveli",8.75,77.75
+1559,"Tinpahar",24.98,87.73
+1560,"Tipongpani",27.33,95.92
+1561,"Tirodi",21.67,79.73
+1562,"Tiruchchirappalli",10.75,78.75
+1563,"Tirunelveli",8.75,77.75
+1564,"Tirupati",13.65,79.42
+1565,"Tiruppur",11.08,77.37
+1566,"Tiruvannamalai",12.25,79.08
+1567,"Tisa",32.83,76.15
+1568,"Todgarh",25.7,73.97
+1569,"Tonk",26.1,75.9
+1570,"Tons, Haryana",30.5,77.65
+1571,"Tons , Ut.P.",26.02,83.55
+1572,"Torpa",22.95,85.1
+1573,"Towang",27.62,91.83
+1574,"Trichur",10.5,76.3
+1575,"Tripura",24,92
+1576,"Trishul",30.32,79.78
+1577,"Trivandrum",8.68,77
+1578,"Tso Moriri L.",32.83,78.33
+1579,"Tuna",22.98,70.08
+1580,"Tundla",27.2,78.28
+1581,"Tuticorin",8.83,78.2
+1582,"Udagamandalam",11.5,76.73
+1583,"Udainagar",22.55,76.22
+1584,"Udaipur",24.6,73.73
+1585,"Udala",21.58,86.57
+1586,"Udgir",18.42,77.08
+1587,"Udhampur",33,75.08
+1588,"Udupi",13.42,74.7
+1589,"Ujh",32.17,75.3
+1590,"Ujhani",28,79.1
+1591,"Ukki Fort",33.47,76.9
+1592,"Umaria",23.58,80.83
+1593,"Umreth",22.68,73.07
+1594,"Una",2.77,71.13
+1595,"Unnao",26.58,80.5
+1596,"Upleta",21.77,70.27
+1597,"Upshi",33.8,77.87
+1598,"Utraula",27.32,82.42
+1599,"Uttar Pradesh",27,80
+1600,"Uttaranchal",30,79.5
+1601,"Vadnagar",22.33,73.17
+1602,"Vadodara",22.33,73.17
+1603,"Vaisali",26.47,78.88
+1604,"Valsad",20.67,72.97
+1605,"Varanasi",25.37,83
+1606,"Vatrak",23.15,73.03
+1607,"Vav",24.37,71.52
+1608,"Velikonda Range",14.75,79.17
+1609,"Vellore",12.95,79.17
+1610,"Venguria",15.88,73.75
+1611,"Venkatapuram",18.33,80.5
+1612,"Veraval",20.88,70.45
+1613,"Victor",42.97,77.4
+1614,"Vidisha",23.47,77.88
+1615,"Vijayawada",16.52,80.65
+1616,"Vindhya Ra.",22.83,77
+1617,"Viramgam",23.08,72
+1618,"Virpur",21.85,70.7
+1619,"Virudunagar",9.5,77.97
+1620,"Vishakhapatnam",17.75,83.33
+1621,"Visnagar",23.75,72.53
+1622,"Vizianagaram",18.1,83.5
+1623,"Vrindavan",27.62,77.67
+1624,"Wankaner",22.58,71
+1625,"Warangal",17.97,79.58
+1626,"Waraseoni",21.75,80.03
+1627,"Wardha",19.95,79.18
+1628,"Washim",20.05,77
+1629,"West Bengal",23,88
+1630,"Western Ghats",14,75
+1631,"Wular L.",34.33,74.5
+1632,"Yadgir",16.75,77.08
+1633,"Yamuna",25.5,81.88
+1634,"Yamunagar",30.12,77.28
+1635,"Yavatmal",20.33,78.25
+1636,"Zaskar Mts.",33.25,77.5
